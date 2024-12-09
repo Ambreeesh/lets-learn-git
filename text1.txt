@@ -1,2 +1,6 @@
 My second text file.
+<<<<<<< HEAD
 Todays commit on dated 09.12.2024
+=======
+This is my attempt to commit changes.
+>>>>>>> main
